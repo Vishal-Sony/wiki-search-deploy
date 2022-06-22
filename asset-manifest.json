@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/wiki-search-deploy/static/css/main.d52b628b.css",
+    "main.js": "/wiki-search-deploy/static/js/main.fc7a66ef.js",
+    "static/media/logo.png": "/wiki-search-deploy/static/media/logo.6c3ef309ab344e94b66e.png",
+    "index.html": "/wiki-search-deploy/index.html",
+    "main.d52b628b.css.map": "/wiki-search-deploy/static/css/main.d52b628b.css.map",
+    "main.fc7a66ef.js.map": "/wiki-search-deploy/static/js/main.fc7a66ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d52b628b.css",
+    "static/js/main.fc7a66ef.js"
+  ]
+}
